@@ -3,6 +3,10 @@
         {
             "name": "Tic tac toe",
             "packageName": "ticTacToe"
-        }  
+        },
+        {
+            "name": "testing",
+            "packageName": "testing"
+        }
     ]
 }
