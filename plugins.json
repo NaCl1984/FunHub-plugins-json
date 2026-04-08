@@ -1,0 +1,20 @@
+{
+    "games": [
+        {
+            "name": "Tic tac toe",
+            "pathToScriptFile": "ticTacToe.py"
+        },
+        {
+            "name": "placeHolder1",
+            "pathToScriptFile": null
+        },
+        {
+            "name": "placeHolder2",
+            "pathToScriptFile": null
+        },
+        {
+            "name": "placeHolder3",
+            "pathToScriptFile": null
+        }
+    ]
+}
