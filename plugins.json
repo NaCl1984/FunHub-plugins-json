@@ -1,8 +1,5 @@
 {
     "plugins": [
-        {
-            "name": "Tic tac toe",
-            "packageName": "FunHubTicTacToe"
-        }
+        
     ]
 }
