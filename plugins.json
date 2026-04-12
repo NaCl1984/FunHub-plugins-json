@@ -4,7 +4,13 @@
             "type":"remote",
             "name":"Tic tac toe",
             "packageName":"funhub-tic-tac-toe",
-            "commandName":"tic-tac-toe"
+            "commandName":"funhub-tic-tac-toe"
+        },
+        {
+            "type":"remote",
+            "name":"Minesweeper",
+            "packageName":"funHub-minesweeper",
+            "commandName":"funhub-minesweeper"
         }
     ]
 }
