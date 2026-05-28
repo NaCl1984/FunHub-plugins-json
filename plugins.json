@@ -17,6 +17,12 @@
             "name":"Snake",
             "packageName":"funhub-snake",
             "commandName":"funhub-snake"
+        },
+        {
+            "type":"remote",
+            "name":"Scroll shooter",
+            "packageName":"funhub-scroll-shooter",
+            "commandName":"funhub-scroll-shooter"
         }
     ]
 }
